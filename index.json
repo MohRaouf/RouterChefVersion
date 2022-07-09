@@ -1,12 +1,12 @@
 {
     "free": "1.9.0",
         "arabicData": {
-        "welcomeMsg": "عيد اضحي مبارك، كل عام و انتم بخير و كل عام و انتم إلي الله اقرب",
-        "releaseNotes":"✨اضافة اصدار راوتر جديد\n✨اختبار جديد\n✨يلا بينا"
+        "welcomeMsg": "عيد اضحي مبارك . . طلع التريند اياه علي تويتر كل يوم الساعة 9 بليل سبام تويتات",
+        "releaseNotes":"ده احدث اصدار . . المطور يصحي بس و يصلح الـ Issue دي 😂"
     },
     "englishData": {
-        "welcomeMsg": "Eid al-Adha Mubarak, May Allah give you all the prosperity and success",
-        "releaseNotes":"✨Add new router model\n✨Add new Test\n✨الجديد في التحديث"
+        "welcomeMsg": "Eid al-Adha Mubarak, #unlimited_internet_in_Egypt Support Egypt by sharing to Twitter",
+        "releaseNotes":"You are on the latest version . . when the developer of this app wake up he will fix this issue 😂"
 
     }
 }
