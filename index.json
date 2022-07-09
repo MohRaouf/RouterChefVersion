@@ -1,9 +1,9 @@
 {
     "free": "1.9.0",
         "arabicData": {
-        "welcomeMsg": "#محمد_انيس"
+        "welcomeMsg": "عيد اضحي مبارك، كل عام و انتم بخير و كل عام و انتم إلي الله اقرب"
     },
     "englishData": {
-        "welcomeMsg": "#Mohamed_Anis"
+        "welcomeMsg": "Eid al-Adha Mubarak, May Allah give you all the prosperity and success"
     }
 }
