@@ -1,3 +1,9 @@
 {
     "free": "1.9.0"
+    "arabicData": {
+        "welcomeMsg":"أهلاً بك في راوتر شف"
+    }
+    "englishData":{
+        "welcomeMsg":"WELCOME TO ROUTER CHEF"
+    }
 }
