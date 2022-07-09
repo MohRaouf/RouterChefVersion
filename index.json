@@ -1,9 +1,12 @@
 {
     "free": "1.9.0",
         "arabicData": {
-        "welcomeMsg": "عيد اضحي مبارك، كل عام و انتم بخير و كل عام و انتم إلي الله اقرب"
+        "welcomeMsg": "عيد اضحي مبارك، كل عام و انتم بخير و كل عام و انتم إلي الله اقرب",
+        "releaseNotes":"✨اضافة اصدار راوتر جديد\n✨اختبار جديد\n✨يلا بينا"
     },
     "englishData": {
-        "welcomeMsg": "Eid al-Adha Mubarak, May Allah give you all the prosperity and success"
+        "welcomeMsg": "Eid al-Adha Mubarak, May Allah give you all the prosperity and success",
+        "releaseNotes":"✨Add new router model\n✨Add new Test\n✨الجديد في التحديث"
+
     }
 }
