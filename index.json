@@ -1,9 +1,9 @@
 {
-    "free": "1.9.0"
-    "arabicData": {
-        "welcomeMsg":"#محمد_انيس"
-    }
-    "englishData":{
-        "welcomeMsg":"#Mohamed_Anis"
+    "free": "1.9.0",
+        "arabicData": {
+        "welcomeMsg": "#محمد_انيس"
+    },
+    "englishData": {
+        "welcomeMsg": "#Mohamed_Anis"
     }
 }
