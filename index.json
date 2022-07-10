@@ -1,12 +1,12 @@
 {
-    "free": "1.9.1",
+    "free": "1.9.3",
         "arabicData": {
         "welcomeMsg": "عيد اضحي مبارك . . طلع التريند اياه علي تويتر كل يوم الساعة 9 بليل سبام تويتات",
-        "releaseNotes":"ده احدث اصدار . . المطور يصحي بس و يصلح الـ Issue دي 😂"
+        "releaseNotes":"✨ حل مشكلة تسجيل الدخول في بعض الاصدارات\n✨ تحسينات في الأداء/n لو في اي مشاكل استمرت الغي تثبيت التطبيق ونزله تاني"
     },
     "englishData": {
         "welcomeMsg": "Eid al-Adha Mubarak, #unlimited_internet_in_Egypt Support Egypt by sharing to Twitter",
-        "releaseNotes":"You are on the latest version . . when the developer of this app wake up he will fix this issue 😂"
+        "releaseNotes":"✨ Fix Login issue in some Routers\n ✨Performance enhancements"
 
     }
 }
