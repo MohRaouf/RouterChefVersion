@@ -3,13 +3,13 @@
   "ar": {
     "title": "رسالة اختبار",
     "content": "هذه رسالة اختبار",
-    "buttonText": "نص الزر",
-    "buttonLink": "https://google.com"
+    "btnText": "نص الزر",
+    "btnLink": "https://google.com"
   },
   "en": {
     "title": "Test Title",
     "content": "This is a test message",
-    "buttonText": "Go Text",
-    "buttonLink": "https://google.com"
+    "btnText": "Go Text",
+    "btnLink": "https://google.com"
   }
 }
