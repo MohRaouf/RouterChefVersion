@@ -1,0 +1,15 @@
+ {
+  "show": true,
+  "arabicData": {
+    "title": "رسالة اختبار",
+    "content": "هذه رسالة اختبار",
+    "buttonText": "نص الزر",
+    "buttonLink": "https://google.com"
+  },
+  "englishData": {
+    "title": "Test Title",
+    "content": "This is a test message",
+    "buttonText": "Go Text",
+    "buttonLink": "https://google.com"
+  }
+}
