@@ -2,11 +2,11 @@
     "free": "1.9.3",
         "arabicData": {
         "welcomeMsg": "عيد اضحي مبارك . . طلع التريند اياه علي تويتر كل يوم الساعة 9 بليل",
-        "releaseNotes":"✨ حل مشكلة تسجيل الدخول في بعض الاصدارات\n✨ تحسينات في الأداء/n لو في اي مشاكل استمرت الغي تثبيت التطبيق ونزله تاني"
+        "releaseNotes":"✨ دعم راوتر جديد : TP-Link TD-W8968\n✨ حل مشكلة تسجيل الدخول في بعض الاصدارات✨"
     },
     "englishData": {
         "welcomeMsg": "Eid al-Adha Mubarak, #unlimited_internet_in_Egypt Support Egypt by sharing to Twitter",
-        "releaseNotes":"✨ Fix Login issue in some Routers\n ✨Performance enhancements"
+        "releaseNotes":"✨ Support new Router: TP-Link TD-W8968\n✨Performance enhancements"
 
     }
 }
