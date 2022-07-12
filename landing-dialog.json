@@ -1,16 +1,16 @@
  {
   "id": "2",
-  "show": false,
+  "show": true,
   "ar": {
     "title": "رسالة اختبار",
     "content": "هذه رسالة اختبار",
     "btnText": "نص الزر",
-    "btnLink": "https://google.com"
+    "btnLink": ""
   },
   "en": {
     "title": "Test Title",
     "content": "This is a test message",
     "btnText": "Go Text",
-    "btnLink": "https://google.com"
+    "btnLink": ""
   }
 }
