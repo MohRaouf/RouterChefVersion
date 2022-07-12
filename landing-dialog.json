@@ -5,12 +5,12 @@
     "title": "رسالة اختبار",
     "content": "هذه رسالة اختبار",
     "btnText": "نص الزر",
-    "btnLink": ""
+    "btnLink": null
   },
   "en": {
     "title": "Test Title",
     "content": "This is a test message",
     "btnText": "Go Text",
-    "btnLink": ""
+    "btnLink": null
   }
 }
