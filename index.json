@@ -2,10 +2,10 @@
     "free": "1.9.3",
         "arabicData": {
         "welcomeMsg": "عيد اضحي مبارك . . طلع التريند اياه علي تويتر كل يوم الساعة 9 بليل",
-        "releaseNotes":"✨ دعم راوتر جديد : TP-Link TD-W8968\n✨ حل مشكلة تسجيل الدخول في بعض الاصدارات✨"
+        "releaseNotes":"✨ دعم راوتر جديد : TP-Link TD-W8968\n✨ تحسينات عامة في الأداء"
     },
     "englishData": {
         "welcomeMsg": "Eid al-Adha Mubarak, #unlimited_internet_in_Egypt Support Egypt by sharing to Twitter",
-        "releaseNotes":"✨ Support new Router: TP-Link TD-W8968\n✨Performance enhancements"
+        "releaseNotes":"✨ Support new Router: TP-Link TD-W8968\n✨ Performance enhancements"
     }
 }
