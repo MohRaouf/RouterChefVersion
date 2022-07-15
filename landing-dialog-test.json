@@ -1,0 +1,18 @@
+
+ {
+  "id": "2",
+   "ImageUrl":"https://pbs.twimg.com/media/FXp_m-VUEAgj459?format=jpg&name=small",
+  "show": false,
+  "ar": {
+    "title": "رسالة اختبار",
+    "content": "هذه رسالة اختبار",
+    "btnText": "نص الزر",
+    "btnLink": null
+  },
+  "en": {
+    "title": "Test Title",
+    "content": "This is a test message",
+    "btnText": "Go Text",
+    "btnLink": null
+  }
+}
