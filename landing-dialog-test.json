@@ -5,14 +5,14 @@
   "show": true,
   "ar": {
     "title": "#انترنت_لا_محدود_في_مصر",
-    "content": "هذه رسالة اختبار",
-    "btnText": "نص الزر",
-    "btnLink": null
+    "content": "ادعم الهاشتاج . . اطلب حقك",
+    "btnText": "شارك معانا علي تويتر",
+    "btnLink": "https://twitter.com/"
   },
   "en": {
-    "title": "Test Title",
-    "content": "This is a test message",
-    "btnText": "Go Text",
-    "btnLink": null
+    "title": "#Unlimited_Internet_in_Egypt",
+    "content": "Support the hashtag for the Egyptian people",
+    "btnText": "Support Us On Twitter",
+    "btnLink": "https://twitter.com/"
   }
 }
