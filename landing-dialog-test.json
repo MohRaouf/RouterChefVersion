@@ -1,7 +1,7 @@
 
  {
   "id": "2",
-  "ImageUrl":"https://pbs.twimg.com/media/FXp_m-VUEAgj459?format=jpg&name=small",
+  "imageUrl":"https://pbs.twimg.com/media/FXp_m-VUEAgj459?format=jpg&name=small",
   "show": true,
   "ar": {
     "title": "رسالة اختبار",
