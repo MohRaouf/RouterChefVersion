@@ -1,18 +1,17 @@
-
  {
-  "id": "2",
+  "id": "3",
   "imageUrl":"https://pbs.twimg.com/media/FXslB4BUYAApamm?format=jpg&name=small",
   "show": false,
   "ar": {
-    "title": "رسالة اختبار",
-    "content": "هذه رسالة اختبار",
-    "btnText": "نص الزر",
-    "btnLink": null
+    "title": "#انترنت_لا_محدود_في_مصر",
+    "content": "ادعم الهاشتاج . . اطلب حقك",
+    "btnText": "شارك معانا علي تويتر",
+    "btnLink": "https://twitter.com/"
   },
   "en": {
-    "title": "Test Title",
-    "content": "This is a test message",
-    "btnText": "Go Text",
-    "btnLink": null
+    "title": "#Unlimited_Internet_in_Egypt",
+    "content": "Support the hashtag for the Egyptian people",
+    "btnText": "Support Us On Twitter",
+    "btnLink": "https://twitter.com/"
   }
 }
