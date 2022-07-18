@@ -1,11 +1,11 @@
 {
     "free": "1.9.5",
         "arabicData": {
-        "welcomeMsg": "عيد اضحي مبارك . . طلع التريند اياه علي تويتر كل يوم الساعة 9 بليل",
+        "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
         "releaseNotes":"✨ دعم راوتر جديد : TP-Link TD-W8968\n✨ تحسينات عامة في الأداء"
     },
     "englishData": {
-        "welcomeMsg": "Eid al-Adha Mubarak, #unlimited_internet_in_Egypt Support Egypt by sharing to Twitter",
+        "welcomeMsg": "If you found this app usefull, Please Rate us 5 stars on Google Play 🙏",
         "releaseNotes":"✨ Support new Router: TP-Link TD-W8968\n✨ Performance enhancements"
     }
 }
