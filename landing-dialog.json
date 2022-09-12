@@ -1,17 +1,17 @@
  {
-  "id": "3",
-  "imageUrl":"https://pbs.twimg.com/media/FXslB4BUYAApamm?format=jpg&name=small",
-  "show": false,
+  "id": "4",
+  "imageUrl":"",
+  "show": true,
   "ar": {
-    "title": "#انترنت_لا_محدود_في_مصر",
-    "content": "ادعم الهاشتاج . . 💪",
-    "btnText": "شارك معانا علي تويتر",
-    "btnLink": "https://twitter.com/"
+    "title": "مشكلة الراوتر مهنج",
+    "content": "نظراً للتحديثات الاخيرة للمتصفح الافتراضي للاندرويد تم ازالة الدعم لبعض من بروتوكولات التواصل التي يستخدمها بعض من الروترات التي يدعمها التطبيق، و بالتالي تظهر مشكلة الراوتر مهنج لحل المشكلة اتبع الشرح ف من خلال الضغط ادناه",
+    "btnText": "اذهب الي الشرح",
+    "btnLink": "https://www.facebook.com/M.AbdulRaoufff/posts/472411018230258?__cft__[0]=AZU0uMQpmYl9bh4YjHCFUrLy1jEepjXY7jslKyc9awcY6AJBgs7olieDNwf9JnbwT3zWTlOqfNK06Odv1tYnWRVXMrvI1_Jy-wTElP_DoGqNJA_Tq8DUalRHoFIQKYoGbM70gM27sbc1-mJDLAMkvf7DaIrIgTg56fQLmtIGu7a-iwUdY78pArnZyCsLKjED0hM&__tn__=%2CO%2CP-R"
   },
   "en": {
-    "title": "#Unlimited_Internet_in_Egypt",
-    "content": "Support the hashtag for the Egyptian people",
-    "btnText": "Support Us On Twitter",
-    "btnLink": "https://twitter.com/"
+    "title": "Known Issue",
+    "content": "Due to the recent update for the android webview, some old protocols has been remove which are being used by some of the supported routers in the app, to fix this issue follow the link below",
+    "btnText": "How to Fix",
+    "btnLink": "https://www.facebook.com/M.AbdulRaoufff/posts/472411018230258?__cft__[0]=AZU0uMQpmYl9bh4YjHCFUrLy1jEepjXY7jslKyc9awcY6AJBgs7olieDNwf9JnbwT3zWTlOqfNK06Odv1tYnWRVXMrvI1_Jy-wTElP_DoGqNJA_Tq8DUalRHoFIQKYoGbM70gM27sbc1-mJDLAMkvf7DaIrIgTg56fQLmtIGu7a-iwUdY78pArnZyCsLKjED0hM&__tn__=%2CO%2CP-R"
   }
 }
