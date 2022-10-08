@@ -1,5 +1,5 @@
  {
-  "id": "6",
+  "id": "7",
   "show": true,
   "ar": {
     "title": "مشكلة الراوتر مهنج",
@@ -9,7 +9,7 @@
   },
   "en": {
     "title": "Known Issue",
-    "content": "Due to the recent update for the android webview, some old protocols has been remove which are being used by some of the supported routers in the app, to fix this issue follow the link below",
+    "content": "Due to the recent update for the android webview, some old protocols has been removed which are being used by some of the supported routers in the app, to fix this issue follow the link below",
     "btnText": "How to Fix",
     "btnLink": "https://www.facebook.com/M.AbdulRaoufff/posts/472411018230258?__cft__[0]=AZU0uMQpmYl9bh4YjHCFUrLy1jEepjXY7jslKyc9awcY6AJBgs7olieDNwf9JnbwT3zWTlOqfNK06Odv1tYnWRVXMrvI1_Jy-wTElP_DoGqNJA_Tq8DUalRHoFIQKYoGbM70gM27sbc1-mJDLAMkvf7DaIrIgTg56fQLmtIGu7a-iwUdY78pArnZyCsLKjED0hM&__tn__=%2CO%2CP-R"
   }
