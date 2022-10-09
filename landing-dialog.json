@@ -1,16 +1,15 @@
  {
   "id": "9",
   "show": true,
+  "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
   "ar": {
     "title": "المولد النبوي الشريف",
-    "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
     "content": "كل عام و انتم بخير 💝",
     "btnText": "جروب التطبيق",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
   },
   "en": {
     "title": "Prophet Muhammad's Birthday",
-    "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
     "content": "Happy Hijri year 💝",
     "btnText": "Router Chef FB Group",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
