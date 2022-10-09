@@ -4,13 +4,15 @@
   "ar": {
     "title": "المولد النبوي الشريف",
     "content": "كل عام و انتم بخير 💝",
+    "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
     "btnText": "جروب التطبيق",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
   },
   "en": {
     "title": "Prophet Muhammad's Birthday",
     "content": "Happy Hijri year 💝",
-    "btnText": "ٌRouter Chef FB Group",
+    "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
+    "btnText": "Router Chef FB Group",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
   }
 }
