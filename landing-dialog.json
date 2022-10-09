@@ -1,16 +1,16 @@
  {
-  "id": "7",
+  "id": "8",
   "show": true,
   "ar": {
-    "title": "مشكلة الراوتر مهنج",
-    "content": "للاسف هذا الخطأ ليس له علاقة بالتطبيق و انما بسبب التحديثات الاخيرة للمتصفح الافتراضي للاندرويد تم ازالة بعض من بروتوكولات التواصل التي يستخدمها بعض من الروترات القديمة جداً التي يدعمها التطبيق، و بالتالي تظهر مشكلة الراوتر مهنج يوجد حل بديل للمشكلة يمكنك الاطلاع عليه من خلال الضغط ادناه",
-    "btnText": "اذهب الي الشرح",
-    "btnLink": "https://www.facebook.com/M.AbdulRaoufff/posts/472411018230258?__cft__[0]=AZU0uMQpmYl9bh4YjHCFUrLy1jEepjXY7jslKyc9awcY6AJBgs7olieDNwf9JnbwT3zWTlOqfNK06Odv1tYnWRVXMrvI1_Jy-wTElP_DoGqNJA_Tq8DUalRHoFIQKYoGbM70gM27sbc1-mJDLAMkvf7DaIrIgTg56fQLmtIGu7a-iwUdY78pArnZyCsLKjED0hM&__tn__=%2CO%2CP-R"
+    "title": "المولد النبوي الشريف",
+    "content": "كل عام و انتم بخير 💝",
+    "btnText": "جروب التطبيق",
+    "btnLink": "https://www.facebook.com/groups/routerchef/"
   },
   "en": {
-    "title": "Known Issue",
-    "content": "Due to the recent update for the android webview, some old protocols has been removed which are being used by some of the supported routers in the app, to fix this issue follow the link below",
-    "btnText": "How to Fix",
-    "btnLink": "https://www.facebook.com/M.AbdulRaoufff/posts/472411018230258?__cft__[0]=AZU0uMQpmYl9bh4YjHCFUrLy1jEepjXY7jslKyc9awcY6AJBgs7olieDNwf9JnbwT3zWTlOqfNK06Odv1tYnWRVXMrvI1_Jy-wTElP_DoGqNJA_Tq8DUalRHoFIQKYoGbM70gM27sbc1-mJDLAMkvf7DaIrIgTg56fQLmtIGu7a-iwUdY78pArnZyCsLKjED0hM&__tn__=%2CO%2CP-R"
+    "title": "Prophet Muhammad's Birthday",
+    "content": "Happy Hijri year 💝",
+    "btnText": "ٌRouter Chef FB Group",
+    "btnLink": "https://www.facebook.com/groups/routerchef/"
   }
 }
