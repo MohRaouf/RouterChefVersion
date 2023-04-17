@@ -1,11 +1,11 @@
 {
-    "free": "2.0.4",
+    "free": "2.0.5",
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ حل مشاكر روترات ZTE \n✨ تحسينات عامة في الأداء✨"
+        "releaseNotes":"✨ حل مشكلة تحديد السرعة في راوتر DN8245V \n✨ تحسينات عامة في الأداء✨"
     },
     "englishData": {
         "welcomeMsg": "If you found this app usefull, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Fix almost all ZTE Routers issues \n✨Performance enhancements"
+        "releaseNotes":"✨ Fix limiting internet speed issue in router model DN8245V \n✨Performance enhancements"
     }
 }
