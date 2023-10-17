@@ -1,17 +1,17 @@
  {
-  "id": "9",
-  "show": false,
-  "imageUrl":"https://pbs.twimg.com/media/FemODqaWAAEkXZe?format=jpg&name=medium",
+  "id": "10",
+  "show": true,
+  "imageUrl":"https://pbs.twimg.com/media/F8qxiW6XAAAaEUM?format=jpg&name=small",
   "ar": {
-    "title": "المولد النبوي الشريف",
-    "content": "كل عام و انتم بخير 💝",
-    "btnText": "جروب التطبيق",
+    "title": "أدعم القضية الفلسطينية",
+    "content": "اللهم إنا نستودعك فلسطين وأهلها وأرضها وسماءها، رجالها ونساءها وأطفالها، اللهم فاحفظها من كل شر وسوء يا من لا تضيع عنده الودائع، اللهم من أراد بها أو بأهلها السوء فاجعل دائرة السوء تدور عليه يا رب العالمين.",
+    "btnText": "آمين",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
   },
   "en": {
-    "title": "Prophet Muhammad's Birthday",
-    "content": "Happy Hijri year 💝",
-    "btnText": "Router Chef FB Group",
+    "title": "I support the Palestinian cause",
+    "content": "O Allah, we entrust to You Palestine, its people, its land, and its sky, its men, women, and children. O Allah, protect it from all harm and evil, You who never lose the trust. O Allah, whoever intends harm for it or its people, let the circle of harm turn upon them",
+    "btnText": "Amen",
     "btnLink": "https://www.facebook.com/groups/routerchef/"
   }
 }
