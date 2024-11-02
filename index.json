@@ -1,12 +1,12 @@
 {
-    "free": "2.2.10",
-    "isFullRollout": true,
+    "free": "2.2.13",
+    "isFullRollout": false,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ حل مشكلة اصدار الراوتر الفايبر HG8145V5"
+        "releaseNotes":"✨ تحسينات في الأداء"
     },
     "englishData": {
         "welcomeMsg": "If you found this app useful, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Fix HG8145V5 router issues"
+        "releaseNotes":"✨ Performance enhancements"
     }
 }
