@@ -1,6 +1,6 @@
 {
-    "free": "2.2.2",
-    "isFullRollout": true,
+    "free": "2.2.4",
+    "isFullRollout": false,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
         "releaseNotes":"✨ حل مشكلة تحديد تسجيل الدخول في راوتر DN8245V \n✨ حل مشكلة الحظر في راوتر: AC1200 (DSL-245GE)"
