@@ -1,12 +1,12 @@
 {
-    "free": "2.2.5",
-    "isFullRollout": false,
+    "free": "2.2.9",
+    "isFullRollout": true,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ حل مشكلة تحديد تسجيل الدخول في راوتر DN8245V \n✨ حل مشكلة الحظر في راوتر: AC1200 (DSL-245GE)"
+        "releaseNotes":"✨ حل مشكلة التحديث الجديد ل راوتر ZTE 188A"
     },
     "englishData": {
         "welcomeMsg": "If you found this app useful, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Fix mac filter issue in router model: AC1200 (DSL-245GE) \n✨ Fix login issue for Router model: DN8245V"
+        "releaseNotes":"✨ Fix firmware update issue for Router model: ZTE 188A"
     }
 }
