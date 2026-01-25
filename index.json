@@ -1,12 +1,12 @@
 {
-    "free": "2.2.9",
-    "isFullRollout": true,
+    "free": "2.2.10",
+    "isFullRollout": false,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ حل مشكلة التحديث الجديد ل راوتر ZTE 188A"
+        "releaseNotes":"✨ دعم راوتر فودافون DG8245V\n✨ تحسينات في الأداء"
     },
     "englishData": {
         "welcomeMsg": "If you found this app useful, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Fix firmware update issue for Router model: ZTE 188A"
+        "releaseNotes":"✨ Support router model: DG8245V\n✨ Performance enhancements"
     }
 }
