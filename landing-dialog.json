@@ -1,17 +1,17 @@
  {
-  "id": "11",
+  "id": "12",
   "show": true,
-  "imageUrl":"https://pbs.twimg.com/media/F8qxiW6XAAAaEUM?format=jpg&name=small",
+  "imageUrl":"https://pbs.twimg.com/media/HFEZay-aEAA8oLB?format=png&name=900x900",
   "ar": {
-    "title": "أدعم القضية الفلسطينية",
-    "content": "اللهم إنا نستودعك فلسطين وأهلها وأرضها وسماءها، رجالها ونساءها وأطفالها، اللهم فاحفظها من كل شر وسوء يا من لا تضيع عنده الودائع، اللهم من أراد بها أو بأهلها السوء فاجعل دائرة السوء تدور عليه يا رب العالمين.",
-    "btnText": "آمين",
-    "btnLink": "https://www.facebook.com/groups/routerchef/"
+    "title": "الجروب الجديد",
+    "content": "نظراً لحذف جروب الدعم لتطبيق راوتر شف من قبل الفيس بووك تم إنشاء جروب جديد، يمكنك الانضمام الآن و نشر استفسارك",
+    "btnText": "الذهاب إلي الجروب",
+    "btnLink": "https://www.facebook.com/groups/routerchefofficial"
   },
   "en": {
-    "title": "I support the Palestinian cause",
-    "content": "O Allah, we entrust to You Palestine, its people, its land, and its sky, its men, women, and children. O Allah, protect it from all harm and evil, You who never lose the trust. O Allah, whoever intends harm for it or its people, let the circle of harm turn upon them",
-    "btnText": "Amen",
-    "btnLink": "https://www.facebook.com/groups/routerchef/"
+    "title": "Router Chef FB Group",
+    "content": "Our old support group was removed by Facebook. Here is the new one! Feel free to join and ask anything.",
+    "btnText": "Join FB Group",
+    "btnLink": "https://www.facebook.com/groups/routerchefofficial"
   }
 }
