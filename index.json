@@ -1,6 +1,6 @@
 {
-    "free": "2.2.12",
-    "isFullRollout": true,
+    "free": "2.2.13",
+    "isFullRollout": false,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
         "releaseNotes":"✨ حل مشكلة اعدادات الوايفاي في راوتر DN8245V\n✨ تحسينات في الأداء"
