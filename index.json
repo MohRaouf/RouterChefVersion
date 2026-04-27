@@ -1,12 +1,12 @@
 {
-    "free": "2.2.13",
-    "isFullRollout": false,
+    "free": "2.2.15",
+    "isFullRollout": true,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ حل مشكلة اعدادات الوايفاي في راوتر DN8245V\n✨ تحسينات في الأداء"
+        "releaseNotes":"✨ تحسينات في الأداء"
     },
     "englishData": {
         "welcomeMsg": "If you found this app useful, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Fix Wi-Fi Settings in Router: DN8245V\n✨ Performance enhancements"
+        "releaseNotes":"✨ Performance enhancements"
     }
 }
