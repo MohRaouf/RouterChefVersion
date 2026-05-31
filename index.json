@@ -1,12 +1,12 @@
 {
-    "free": "2.2.16",
-    "isFullRollout": false,
+    "free": "2.2.17",
+    "isFullRollout": true,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
-        "releaseNotes":"✨ إضافة الدعم لراوتر جديد: D-Link DSL224\n✨تحسينات في الأداء"
+        "releaseNotes":"✨ دعم مودم DN8245X6\n✨ دعم مودم Green Packet IL-410TD-A\n✨تحسينات في الأداء"
     },
     "englishData": {
         "welcomeMsg": "If you found this app useful, Please Rate us 5 stars on Google Play 🙏",
-        "releaseNotes":"✨ Support router model: D-Link DSL224\n✨ Performance enhancements"
+        "releaseNotes":"✨ Router model DN8245X6 support\n✨ Router model Green Packet IL-410TD-A support\n✨ Performance enhancements"
     }
 }
