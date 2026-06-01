@@ -1,6 +1,6 @@
 {
     "free": "2.2.19",
-    "isFullRollout": false,
+    "isFullRollout": true,
         "arabicData": {
         "welcomeMsg": "متنساش لو التطبيق عجبك تقيمنا 5 نجوم علي متجر بلاي 🙏",
         "releaseNotes":"✨ دعم مودم DN8245X6\n✨ دعم مودم Green Packet IL-410TD-A\n✨تحسينات في الأداء"
